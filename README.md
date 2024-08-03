@@ -27,4 +27,11 @@ Launch the executable as described in the Installation section.
 1. If you guess the number correctly, you will be congratulated and informed of the number of attempts it took.
 
 2. You will then be given the option to play another round or exit.
-  
+### Contributing
+
+Contributions are welcome! Feel free to open an issue or create a pull request if you find any bugs or have suggestions for improvement.
+### Contact
+
+For any questions or suggestions, please contact [annpurnagupta040401@gmail.com].
+
+# Enjoy the game!
